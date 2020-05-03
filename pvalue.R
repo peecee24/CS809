@@ -1,3 +1,4 @@
+
 Zprob <- function(z0){
   
   return(cat('p-value of z normal distribution = ',pnorm(z0)))
